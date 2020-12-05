@@ -1,8 +1,6 @@
-import logo from './logo.svg';
 import NameAndSubtitle from './NameAndSubtitle.js'
 import {
   AwesomeButton,
-  AwesomeButtonProgress,
   AwesomeButtonSocial,
 } from 'react-awesome-button';
 import 'react-awesome-button/dist/themes/theme-eric.css';
