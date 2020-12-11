@@ -18,23 +18,23 @@ function App() {
         </div>
         <div className="all-buttons-div">
         <div className="buttons-div">
-        <AwesomeButton type="primary">Download my CV</AwesomeButton>
-        <AwesomeButton type="secondary" href="mailto:test@test.com">Send me an email</AwesomeButton>
+        <AwesomeButton type="primary">Scarica il mio CV</AwesomeButton>
+        <AwesomeButton type="secondary" href="mailto:test@test.com">Inviami un'email</AwesomeButton>
                         </div>
 
                 <div className="buttons-div">
 
         <AwesomeButtonSocial
         type="instagram"
-        url="https://instagram.com/loleeeens"
+        url="https://www.instagram.com/zappiiiiii/"
       >
-        Follow me
+        Seguimi
       </AwesomeButtonSocial>
       <AwesomeButtonSocial
         type="whatsapp"
-        phone="393917707761"
+        phone="393469660952"
       >
-        Text me
+        WhatsApp
       </AwesomeButtonSocial>
         </div>
         </div>

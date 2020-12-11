@@ -3,7 +3,7 @@ import * as React from 'react';
 import TweenOne from 'rc-tween-one';
 import TextyAnim from 'rc-texty';
 
-const text = "Hello, I'm Lorenzo Curci.";
+const text = "Ciao, sono Iside Zappa.";
 
 class NameAndSubtitle extends React.Component {
   geInterval = (e) => {
